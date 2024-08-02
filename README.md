@@ -52,7 +52,7 @@ Ensure to follow best practices in each step, and consider continuous monitoring
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/MuhammadSheraza002/insurance-claim-prediction.git
+    git clone https://github.com/vinaykadam007/Medical-insurance-claim-prediction-app.git
     cd insurance-claim-prediction
     ```
 
