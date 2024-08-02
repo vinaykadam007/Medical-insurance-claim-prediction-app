@@ -1,4 +1,4 @@
-# Machine Learning-Based Insurance Claim Prediction App
+# Medical Insurance Claim Prediction App
 
 This repository contains a Streamlit web application for predicting insurance claim amounts based on user input. The predictive model is trained using machine learning techniques.
 
